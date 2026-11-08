@@ -1,0 +1,20 @@
+
+# Titanic dataset
+src/data/*
+!src/data/.gitkeep
+
+# macOS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# R
+.Rhistory
+.RData
